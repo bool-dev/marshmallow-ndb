@@ -89,3 +89,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
