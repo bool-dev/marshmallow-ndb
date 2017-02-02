@@ -2,6 +2,7 @@
 from marshmallow import fields as mndb_fields
 
 from google.appengine.ext import ndb
+from marshmallow import fields
 
 
 TYPE_MAPPING = {
