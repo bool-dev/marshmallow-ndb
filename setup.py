@@ -39,7 +39,7 @@ setup(
     version=__version__,
     description=('Google Datastore NDB integration with '
                 'the marshmallow (de)serialization library'),
-    long_description=read('README.md'),
+    long_description=read('README.rst'),
     author='Rodrigo Delduca',
     author_email='rodrigodelduca@gmail.com',
     url='https://github.com/skhaz/ndb-marshmallow',
