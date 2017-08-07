@@ -13,3 +13,7 @@
 .. image:: https://api.codacy.com/project/badge/Grade/9730810cf5374095a35948df47130dc4
    :target: https://www.codacy.com/app/skhaz/marshmallow-ndb
    :alt: Code Health
+
+.. image:: https://requires.io/github/skhaz/marshmallow-ndb/requirements.svg?branch=master
+     :target: https://requires.io/github/skhaz/marshmallow-ndb/requirements/?branch=master
+     :alt: Requirements Status
